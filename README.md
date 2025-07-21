@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Neeraj 👋</h1>
+<h1 align="center">Hi! I'm Neeraj 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer</b> • <b>AI deep explorer</b> • <b>Cloud Enthusiast</b><br/>
