@@ -56,7 +56,7 @@
 
 - 📧 Email: connectneerajyadav@gmail.com  
 - 🌐 Portfolio: [neeraj-yadav.vercel.app](https://neeraj-yadav.vercel.app)  
-- 💼 LinkedIn: [neeraj-yadav-onlnkdin](https://www.linkedin.com/in/neeraj-yadav-onlnkdin)  
+- 💼 LinkedIn: [in/neerajyadavln](https://www.linkedin.com/in/neerajyadavln)
 
 ---
 
