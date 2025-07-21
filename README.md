@@ -1,64 +1,65 @@
-<p>
-  <h2>
-    Hello 👋
-  </h2>
+<h1 align="center">Hey there! I'm Neeraj 👋</h1>
+
+<p align="center">
+  <b>Full-Stack Developer</b> • <b>AI deep explorer</b> • <b>Cloud Enthusiast</b><br/>
+  <i>Crafting performant apps with clean code and scalable architecture</i>
 </p>
+
+<p align="center">
+  <a href="https://github.com/yadavneerajdev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/neeraj-yadav-onlnkdin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:connectneerajyadav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://neeraj-yadav.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,django,flask" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,mongodb,postgres" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSharp-Backend-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=yadavneerajdev&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 💬 Let’s Connect
+
+- 📧 Email: connectneerajyadav@gmail.com  
+- 🌐 Portfolio: [neeraj-yadav.vercel.app](https://neeraj-yadav.vercel.app)  
+- 💼 LinkedIn: [neeraj-yadav-onlnkdin](https://www.linkedin.com/in/neeraj-yadav-onlnkdin)  
+
+---
 
 <!--
-**yadavneerajdev/neeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+This README is a snapshot of Neeraj's work and interests. Want to collaborate? Reach out!
 -->
-<br/>
-
-<span>
-  <a href="https://github.com/yadavneerajdev">
-    <img src="https://img.shields.io/badge/yadavneerajdev-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/neeraj-yadav-onlnkdin">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</span>
-
-<br/>
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/csharp-learning-red?style=for-the-badge&logo=csharp&logoColor=512BD4"/>
-  <img src="https://img.shields.io/badge/aws-learning-red?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-learning-lightblue?style=for-the-badge&logo=react&logoColor=blue"/>
-</p>
-
-<br/>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,c,cs,css,django,docker"/>
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,flask,git,github,html,js,linux"/>
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postman,py,react,ruby,visualstudio,vscode"/>
-  </a>
-</p>
-
-<br/>
-
-<p>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=yadavneerajdev&theme=dark"/>
-  </a>
-</p>
